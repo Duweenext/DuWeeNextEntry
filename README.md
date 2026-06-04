@@ -2,7 +2,7 @@
 
 DuWeeNext is a smart farming solution specifically designed for small- to medium-scale duckweed farmers, particularly those cultivating *Wolffia globosa* (ไข่ผำ). Aimed at supporting new or inexperienced farmers, it integrates IoT-based water quality monitoring, AI-powered image analysis, and educational tools into an easy-to-use mobile platform.
 
-Farmers can monitor essential parameters like pH, temperature, and TDS in real-time, set safe thresholds, and receive instant alerts when conditions go out of range. Image-based analysis helps identify issues such as unhealthy bubbles, algae, and excessive fertilizer use — providing actionable recommendations. DuWeeNext also offers education on avoiding risks like pesticide runoff, heavy metals, and improper fertilizer use, empowering farmers to safeguard their crops and ensure product quality.
+Farmers can monitor essential parameters like pH, temperature, and TDS in real-time, set safe thresholds, and receive instant alerts when conditions go out of range. Image-based analysis helps identify issues such as unhealthy bubbles, algae, and excessive fertilizer use, providing actionable recommendations. DuWeeNext also offers education on avoiding risks like pesticide runoff, heavy metals, and improper fertilizer use, empowering farmers to safeguard their crops and ensure product quality.
 
 ---
 
@@ -46,9 +46,9 @@ Classification of Wolffia Globosa Conditions in Mobile Smart Farming )
 ---
 
 ## ✨ Features
-- **Real-time IoT Monitoring** — pH, temperature, and TDS via sensor dashboard
-- **AI Image Analysis** — Detect pond anomalies from smartphone photos
-- **Push Notifications** — Instant alerts when water conditions exceed safe thresholds
-- **Educational Module** — Guidance on contamination risks and best farming practices
-- **Multilingual Support** — Thai and English interface via i18n
-- **Secure Authentication** — Token versioning, OTP email verification, Google login
+- **Real-time IoT Monitoring**: pH, temperature, and TDS via sensor dashboard
+- **AI Image Analysis**: Detect pond anomalies from smartphone photos
+- **Push Notifications**: Instant alerts when water conditions exceed safe thresholds
+- **Educational Module**: Guidance on contamination risks and best farming practices
+- **Multilingual Support**: Thai and English interface via i18n
+- **Secure Authentication**: Token versioning, OTP email verification, Google login
