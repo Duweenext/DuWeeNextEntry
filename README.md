@@ -3,10 +3,13 @@ DuWeeNext is a smart farming solution specifically designed for small- to medium
 
 ## Repositories
 - 🔹 **Frontend ([https://github.com/Duweenext/Duweenext_proj.git])**
-  stack
+- Backend (Go): [https://github.com/Duweenext/Backend_duweeNext.git)]
+  
+## Stack
+- 🔹 **Frontend**
   ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-- Backend (Go): [https://github.com/Duweenext/Backend_duweeNext.git)]
+- 🔹 **Backend**
 
 ## Tech Stack
 React Native · Go · PostgreSQL · FCM · SendGrid
