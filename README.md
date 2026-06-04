@@ -46,9 +46,9 @@ Classification of Wolffia Globosa Conditions in Mobile Smart Farming )
 ---
 
 ## ✨ Features
-- 📡 **Real-time IoT Monitoring** — pH, temperature, and TDS via sensor dashboard
-- 🤖 **AI Image Analysis** — Detect pond anomalies from smartphone photos
-- 🔔 **Push Notifications** — Instant alerts when water conditions exceed safe thresholds
-- 📚 **Educational Module** — Guidance on contamination risks and best farming practices
-- 🌐 **Multilingual Support** — Thai and English interface via i18n
-- 🔐 **Secure Authentication** — Token versioning, OTP email verification, Google login
+- **Real-time IoT Monitoring** — pH, temperature, and TDS via sensor dashboard
+- **AI Image Analysis** — Detect pond anomalies from smartphone photos
+- **Push Notifications** — Instant alerts when water conditions exceed safe thresholds
+- **Educational Module** — Guidance on contamination risks and best farming practices
+- **Multilingual Support** — Thai and English interface via i18n
+- **Secure Authentication** — Token versioning, OTP email verification, Google login
