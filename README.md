@@ -1,4 +1,4 @@
-# DuWeeNext 🌿
+# DuWeeNext
 
 DuWeeNext is a smart farming solution specifically designed for small- to medium-scale duckweed farmers, particularly those cultivating *Wolffia globosa* (ไข่ผำ). Aimed at supporting new or inexperienced farmers, it integrates IoT-based water quality monitoring, AI-powered image analysis, and educational tools into an easy-to-use mobile platform.
 
@@ -8,7 +8,9 @@ Farmers can monitor essential parameters like pH, temperature, and TDS in real-t
 
 ## 🏆 Achievements
 - 🥈 **Silver Prize** — Young Rising Stars of Science Award 2025
-- 📄 **Accepted** — ECTI-CON 2026 (2 papers)
+- 📄 **Accepted** — ECTI-CON 2026 (2 papers — Alternative Monitoring System for Wolffia Globosa Cultivation Using
+IoT and Image-Based Diagnostics, Comparative Analysis of Deep Learning Architectures for Multi-Label
+Classification of Wolffia Globosa Conditions in Mobile Smart Farming )
 
 ---
 
