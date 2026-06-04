@@ -7,8 +7,8 @@ DuWeeNext is a smart farming solution specifically designed for small- to medium
   
 ## Stack
 - 🔹 **Frontend**
-    ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-    ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+   - ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+   - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 - 🔹 **Backend**
 
 ## Tech Stack
