@@ -20,6 +20,8 @@ Classification of Wolffia Globosa Conditions in Mobile Smart Farming )
 |---|---|
 | 📱 Frontend | [Duweenext_proj](https://github.com/Duweenext/Duweenext_proj) |
 | ⚙️ Backend | [Backend_duweeNext](https://github.com/Duweenext/Backend_duweeNext) |
+| ⚙️ Image Processing | [Image processing_duweeNext](https://github.com/Duweenext/ImageProcess_duweeNext.git) |
+
 
 ---
 
